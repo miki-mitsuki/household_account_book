@@ -6,4 +6,5 @@ env
 db.sqlite3
 /static
 .DS_Store
-/config/settings.py
+/config/__settings.py
+.env
